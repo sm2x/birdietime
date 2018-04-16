@@ -1,0 +1,6 @@
+{	
+	"gcms/js/gcms.js": [
+		"public/js/webcam.min.js",
+		"public/js/webcam-integration.js"
+	]
+}
