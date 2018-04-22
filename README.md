@@ -1,1 +1,7 @@
-# birdietime
+## GCMS
+
+A Management System
+
+#### License
+
+MIT
